@@ -1,0 +1,4 @@
+discord.py==2.6.0
+python-dotenv==1.1.1
+Unidecode==1.4.0
+google-generativeai==0.8.5
